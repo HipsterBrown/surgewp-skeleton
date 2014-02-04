@@ -6,9 +6,9 @@
 # -------------------------------------------
 
 # Just a human readable description of this site
-SITE_NAME="Site Name"
+SITE_NAME="Testing"
 # The name (to be) used by MySQL for the DB
-DB_NAME="site_name"
+DB_NAME="test_db"
 # A bash array of search|replace pairs as strings, separated by spaces. 
 # This is used to fixup a database from a production environment 
 # being loaded into a dev environment.

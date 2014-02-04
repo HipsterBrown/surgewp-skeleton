@@ -31,18 +31,6 @@ module.exports = function(grunt) {
       dist: {
         files: {
           'content/themes/roots/assets/js/scripts.min.js': [
-            'content/themes/roots/assets/js/plugins/bootstrap/transition.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/alert.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/button.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/carousel.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/collapse.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/dropdown.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/modal.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/tooltip.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/popover.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/scrollspy.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/tab.js',
-            'content/themes/roots/assets/js/plugins/bootstrap/affix.js',
             'content/themes/roots/assets/js/plugins/*.js',
             'content/themes/roots/assets/js/_*.js'
           ]
