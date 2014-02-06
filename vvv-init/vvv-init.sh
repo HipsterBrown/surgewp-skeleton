@@ -6,9 +6,9 @@
 # -------------------------------------------
 
 # Just a human readable description of this site
-SITE_NAME="Testing"
+SITE_NAME="MVCSS & More"
 # The name (to be) used by MySQL for the DB
-DB_NAME="test_db"
+DB_NAME="mvcss_wp"
 # A bash array of search|replace pairs as strings, separated by spaces. 
 # This is used to fixup a database from a production environment 
 # being loaded into a dev environment.

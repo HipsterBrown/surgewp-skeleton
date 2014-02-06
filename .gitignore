@@ -4,3 +4,4 @@
 /content/upgrade/
 /node_modules/
 .DS_Store
+.sass-cache
